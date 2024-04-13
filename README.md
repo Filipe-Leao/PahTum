@@ -1,6 +1,6 @@
 # Jogo PahTum
 
-Pathum é um dos jogos mais antigos da história da humanidade.Os tabuleiros mais antigos deste jogo foram encontrados na Antiga Mezopotâmia e na Asíria. O jogo tem um tabuleiro 7x7 com um numero impar de buracos,cinco, que são gerados aleatoriamente para cada jogo. Neste projeto também foi implementado um tabuleiro 5x5 com 3 buracos.
+Pathum é um dos jogos mais antigos da história da humanidade. Os tabuleiros mais antigos deste jogo foram encontrados na Antiga Mezopotâmia e na Asíria. O jogo tem um tabuleiro 7x7 com um numero impar de buracos,cinco, que são gerados aleatoriamente para cada jogo. Neste projeto também foi implementado um tabuleiro 5x5 com 3 buracos.
 No PahTum cada jogador coloca a sua pedra no tabuleiro no seu devido turno. A pedra so pode ser colocada em quadrados que não contenham outra peça ou um buraco. O objetivo é criar mais linhas de pedras contíguas que o adversário. As linhas consideradas são as verticais e horizontais. Cada sequência de pedras tem a sua propria pontuação, valendo apenas pontos a partir de duas peças.
 
 ## Download do programa e sua execução
